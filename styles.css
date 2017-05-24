@@ -1,0 +1,46 @@
+.container {
+	text-align:center;
+	width:400px;
+}
+
+#homePageContainer {
+	margin-top:9%;
+}
+
+html {
+	background: url("background.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body{
+	background:none;
+}
+
+#logInForm {
+	display:none;
+}
+
+.toggleForms {
+	cursor:hand;
+	cursor:pointer;
+}
+
+h1 {
+	padding-bottom:50px;
+}
+
+.explainer {
+	padding-bottom:10px;
+}
+
+#notes {
+	width:100%;
+	height:100%;
+}
+
+#containerLoggedInPage {
+	margin-top:60px;
+}

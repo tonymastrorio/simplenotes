@@ -1,0 +1,16 @@
+[09-May-2017 20:36:30 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/tmastrorio/public_html/development/webapp/index.php on line 3
+[09-May-2017 21:05:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/tmastrorio/public_html/development/webapp/index.php on line 7
+[09-May-2017 21:13:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home4/tmastrorio/public_html/development/webapp/index.php on line 37
+[10-May-2017 16:12:25 America/Chicago] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home4/tmastrorio/public_html/development/webapp/index.php on line 88
+[10-May-2017 16:21:38 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/tmastrorio/public_html/development/webapp/index.php on line 14
+[10-May-2017 16:23:27 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/tmastrorio/public_html/development/webapp/index.php on line 14
+[10-May-2017 16:23:28 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/tmastrorio/public_html/development/webapp/index.php on line 14
+[10-May-2017 16:24:03 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/tmastrorio/public_html/development/webapp/index.php on line 14
+[11-May-2017 15:54:29 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home4/tmastrorio/public_html/development/webapp/index.php on line 189
+[11-May-2017 15:54:29 America/Chicago] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home4/tmastrorio/public_html/development/webapp/index.php on line 189
+[11-May-2017 15:54:29 America/Chicago] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/tmastrorio/public_html/development/webapp/index.php on line 189
+[22-May-2017 20:47:05 America/Chicago] PHP Fatal error:  Function name must be a string in /home4/tmastrorio/public_html/development/webapp/updateDatabase.php on line 5
+[22-May-2017 20:51:59 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/tmastrorio/public_html/development/webapp/updateDatabase.php on line 9
+[22-May-2017 20:51:59 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/tmastrorio/public_html/development/webapp/updateDatabase.php on line 9
+[24-May-2017 11:17:15 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/tmastrorio/public_html/development/webapp/loggedinpage.php on line 21
+[24-May-2017 11:17:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/tmastrorio/public_html/development/webapp/loggedinpage.php on line 21
